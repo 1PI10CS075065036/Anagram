@@ -1,8 +1,3 @@
-'''
-Created on 10-Mar-2013
-
-@author: Dhiren Rachamallu
-'''
 import enchant
 
 def Language_Selection():
